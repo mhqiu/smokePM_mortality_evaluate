@@ -25,7 +25,7 @@ Publisher version accessed at: https://doi.org/10.1021/acs.est.4c05922
 
 - calibrated_smoekPM.rds: calibrated smoke PM estimates
 
--crf_different_smoke_allcause.xlsx: derived dose-response functions
+- crf_different_smoke_allcause.xlsx: derived dose-response functions
 
 
 ### downloaded data needs to be put in /Data for the code to run.
