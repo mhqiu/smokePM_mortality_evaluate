@@ -28,9 +28,9 @@ Publisher version accessed at: https://doi.org/10.1021/acs.est.4c05922
 -crf_different_smoke_allcause.xlsx: derived dose-response functions
 
 
-## downloaded data needs to be put in /Data for the code to run.
+### downloaded data needs to be put in /Data for the code to run.
 
-## /Scripts contains R code that can be used to replicate main text figures 
+### /Scripts contains R code that can be used to replicate main text figures 
 
 
 
